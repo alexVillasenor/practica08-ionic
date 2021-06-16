@@ -1,0 +1,7 @@
+{
+  "name": "restrrIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
